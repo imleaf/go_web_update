@@ -134,10 +134,10 @@ linux上二进制文件启动后，无法直接替换，得有个手动重启的
 
 ## 总结
 linux上的站点目录如下，一个test go的二进制文件，一个.conf监控文件。
-![image.png](/img/bVbJZIt)
+![image.png](https://image-static.segmentfault.com/942/905/942905324-5f1659a480b5d_articlex)
 
 变更watch.conf后记录的日志
-![image.png](/img/bVbJZKf)
+![image.png](https://image-static.segmentfault.com/213/702/2137028625-5f165b2c4e684_articlex)
 
 如果有任何不对的或者建议，欢迎指出，共同改进。
 
